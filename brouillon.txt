@@ -1,0 +1,21 @@
+<!--    <div class="input-group mb-3">
+                            <div class="input-group-append">
+                                <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            </div>
+                            <input type="text" name="ID_Role" class="form-control input_user" value="" placeholder="Qui êtes-vous ?">
+                        </div> -->
+
+
+
+
+
+                         <!--   <div class="mt-4">
+                    <div class="d-flex justify-content-center links">
+                        Don't have an account? <a href="#" class="ml-2">Sign Up</a>
+                    </div>
+                    <div class="d-flex justify-content-center links">
+                        <a href="#">Forgot your password?</a>
+                    </div>
+                </div> -->
+
+                                    //  $hashed_password = password_hash($mot_de_passe, PASSWORD_DEFAULT);
