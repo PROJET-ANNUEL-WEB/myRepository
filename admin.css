@@ -24,7 +24,7 @@ h1.page-header {
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: #f8f8f8;
+    background-color: #6f6d6d;
     border-right: 1px solid #e7e7e7;
 }
 
@@ -34,7 +34,7 @@ h1.page-header {
 
 .side-menu .navbar-header {
     width: 100%;
-    border-bottom: 1px solid #e7e7e7;
+    border-bottom: 1px solid #616060;
 }
 
 .side-menu .navbar-nav .active a {
@@ -80,7 +80,7 @@ h1.page-header {
 
 .side-menu #dropdown .panel-body {
     padding: 0;
-    background-color: #f3f3f3;
+    background-color: #727070;
 }
 
 .side-menu #dropdown .panel-body .navbar-nav {
@@ -110,7 +110,7 @@ h1.page-header {
 }
 
 .side-menu #dropdown .panel-body .panel-body li:last-child {
-    border-bottom: 1px solid #e7e7e7;
+    border-bottom: 1px solid #656464;
 }
 
 .side-menu #search-trigger {
@@ -146,7 +146,7 @@ h1.page-header {
     width: 100%;
     margin: 0;
     position: relative;
-    border-top: 1px solid #e7e7e7;
+    border-top: 1px solid #706d6d;
 }
 
 .side-menu #search .panel-body .navbar-form .form-group {
@@ -168,7 +168,7 @@ h1.page-header {
     top: 0;
     border: 0;
     border-radius: 0;
-    background-color: #f3f3f3;
+    background-color: #757575;
     padding: 15px 18px;
 }
 
@@ -278,8 +278,8 @@ h1.page-header {
         width: 300px;
         top: 43px;
         height: 100%;
-        border-right: 1px solid #e7e7e7;
-        background-color: #f8f8f8;
+        border-right: 1px solid #6d6a6a;
+        background-color: #6f6e6e;
         overflow: auto;
         -moz-animation: slideout 300ms forwards;
         -o-animation: slideout 300ms forwards;
@@ -394,7 +394,7 @@ h1.page-header {
         /* this is probably redundant */
         position: fixed;
         z-index: 3;
-        background-color: #f8f8f8;
+        background-color: #595555;
     }
 
     /* Dropdown tweek */
@@ -402,3 +402,37 @@ h1.page-header {
         margin: 0;
     }
 }
+.autumn-header {
+    background-color: #F5A623;
+    color: white;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .autumn-text {
+    color: #7F462C;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px;
+  }
+  
+  .autumn-link {
+    color: #7F462C;
+    text-decoration: underline;
+  }
+  
+  .autumn-link:hover {
+    color: #C7683B;
+    text-decoration: none;
+  }
+  
+  .autumn-text1 {
+    color: #eb8252;
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px;
+  }
